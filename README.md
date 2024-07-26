@@ -17,9 +17,9 @@ You can clone the project from GitHub or download the ZIP file to inspect it.
 1-) Enter Numbers: Input the first and second numbers into the respective input fields.
 
 2-) Select Operation: Click the button for the desired arithmetic operation:
-+ : Addition
-- : Subtraction
-* : Multiplication
-/ : Division
+'+' : Addition
+'-' : Subtraction
+'*' : Multiplication
+'/' : Division
 
 3-) View Result: The result will be displayed next to the "Result: " text.
